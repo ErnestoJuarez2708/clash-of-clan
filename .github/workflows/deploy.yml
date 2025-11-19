@@ -1,4 +1,4 @@
-name: UPB Desplegando a un EC2
+name: Deploy to EC2
 
 on:
   push:
